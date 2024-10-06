@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Tech Articles Scraper** is a Python-based web scraping project that utilizes Selenium to extract data from a series of static HTML pages. This project showcases the ability to automate the extraction of valuable information such as article titles, authors, publication dates, summaries, tags, and contact details.
+The **Tech Articles Scraper** is a Python-based web scraping project that utilizes Selenium to extract data from a series of static HTML pages. This project showcases the ability to automate the extraction of valuable information such as article titles, authors, publication dates, summaries, tags.
 
 ## Features
 
